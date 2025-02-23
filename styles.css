@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: beige;
+    padding: 50px;
+}
+h1{
+    color:red;
+}
+
+.container {
+    background: floralwhite;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+    max-width: 400px;
+    margin: auto;
+}
+
+button {
+    background: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+#joke{
+    font-size: x-large;
+    color: black;
+}
+#footer{
+    margin-top: 500px;
+    font-size: smaller;
+}
